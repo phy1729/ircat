@@ -1,0 +1,9 @@
+[package]
+name = "ircat"
+version = "0.1.0"
+description = "Filter IRC colored stdin to ANSI colored stdout."
+license = "ISC"
+repository = "https://github/phy1729/ircat"
+categories = ["command-line-utilities"]
+keywords = ["cli", "irc"]
+edition = "2021"
